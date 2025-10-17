@@ -230,7 +230,7 @@ region          = "${AZURE_REGION}"
 vm_size         = "${AZURE_VM_SIZE}"
 EOF
 
-echo "✅ Terraform configuration prepared."
+echo "Terraform configuration prepared."
 
 echo
 echo "Next steps:"
